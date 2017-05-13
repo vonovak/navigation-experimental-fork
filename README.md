@@ -7,7 +7,7 @@ NavigationExperimental from RN 0.43.3. Useful when you still depend on it in RN 
 
 or
 
-`yard add navigation-experimental-fork`
+`yarn add navigation-experimental-fork`
 
 
 ### Use
