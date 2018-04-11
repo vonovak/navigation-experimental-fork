@@ -45,7 +45,7 @@ type State = {
   scenes: Array<NavigationScene>,
 };
 
-const { PropTypes } = React;
+const PropTypes = require('prop-types');;
 
 const DefaultTransitionSpec = {
   duration: 250,

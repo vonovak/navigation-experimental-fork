@@ -22,7 +22,7 @@ import type { NavigationSceneRendererProps } from 'NavigationTypeDefinition';
 const { Animated } = require('react-native');
 import React, { Component } from 'react';
 
-const { PropTypes } = React;
+const PropTypes = require('prop-types');;
 
 /* NavigationAction */
 const action = PropTypes.shape({

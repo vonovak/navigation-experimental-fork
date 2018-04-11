@@ -42,7 +42,7 @@ import React, { Component } from 'react';
 
 const { Animated, StyleSheet, View } = require('react-native');
 
-const { PropTypes } = React;
+const PropTypes = require('prop-types');;
 const { Directions } = NavigationCardStackPanResponder;
 
 import type {
