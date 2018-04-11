@@ -1,6 +1,6 @@
 {
   "name": "navigation-experimental-fork",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "NavigationExperimental from RN 0.43.3. Useful when you still depend on it in RN >= 0.44.",
   "main": "NavigationExperimental.js",
   "scripts": {
