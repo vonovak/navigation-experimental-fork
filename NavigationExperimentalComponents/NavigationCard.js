@@ -115,10 +115,6 @@ const styles = StyleSheet.create({
     left: 0,
     position: 'absolute',
     right: 0,
-    shadowColor: 'black',
-    shadowOffset: { width: 0, height: 0 },
-    shadowOpacity: 0.4,
-    shadowRadius: 10,
     top: 0,
   },
 });
